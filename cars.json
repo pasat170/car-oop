@@ -1,0 +1,92 @@
+[
+    {
+        "id": "PB2924TC",
+        "brand": "Citroen",
+        "model": "C4",
+        "consumption": 8.6,
+        "cost_per_hour": 6,
+        "cost_per_day": 100,
+        "cost_per_week": 500
+    },
+    {
+        "id": "PB6797KM",
+        "brand": "Toyota",
+        "model": "Corolla Verso",
+        "consumption": 6.3,
+        "cost_per_hour": 7,
+        "cost_per_day": 130,
+        "cost_per_week": 620
+    },
+    {
+        "id": "PB7781HA",
+        "brand": "Volkswagen",
+        "model": "Arteon",
+        "consumption": 8,
+        "cost_per_hour": 7,
+        "cost_per_day": 120,
+        "cost_per_week": 660
+    },
+    {
+        "id": "PB3407HH",
+        "brand": "Nissan",
+        "model": "X-Trail",
+        "consumption": 6.3,
+        "cost_per_hour": 10,
+        "cost_per_day": 150,
+        "cost_per_week": 700
+    },
+    {
+        "id": "PB2661MT",
+        "brand": "Volkswagen",
+        "model": "Passat",
+        "consumption": 9,
+        "cost_per_hour": 9.2,
+        "cost_per_day": 140,
+        "cost_per_week": 675
+    },
+    {
+        "id": "PB9201BT",
+        "brand": "Ford",
+        "model": "Fiesta",
+        "consumption": 8.6,
+        "cost_per_hour": 10,
+        "cost_per_day": 100,
+        "cost_per_week": 800
+    },
+    {
+        "id": "CB7628BA",
+        "brand": "BMW",
+        "model": "E60",
+        "consumption": 9.6,
+        "cost_per_hour": 9.7,
+        "cost_per_day": 150,
+        "cost_per_week": 690
+    },
+    {
+        "id": "A2277TA",
+        "brand": "Honda",
+        "model": "Civic",
+        "consumption": 8.1,
+        "cost_per_hour": 7.5,
+        "cost_per_day": 110,
+        "cost_per_week": 620
+    },
+    {
+        "id": "B5881TH",
+        "brand": "Subaru",
+        "model": "Impreza",
+        "consumption": 10.5,
+        "cost_per_hour": 9.7,
+        "cost_per_day": 130,
+        "cost_per_week": 880
+    },
+    {
+        "id": "CT7777TT",
+        "brand": "Mercedes",
+        "model": "E330",
+        "consumption": 8.8,
+        "cost_per_hour": 9.2,
+        "cost_per_day": 160,
+        "cost_per_week": 900
+    }
+]
